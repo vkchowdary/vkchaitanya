@@ -1,0 +1,8 @@
+Kubernetes is the most used container
+management tool in the enterprise. Kubernetes
+manages individual machines as entities that can
+be assigned multiple containers. Simply adding
+machines increases scale, and each machine
+manages internal tasks such as routing and
+scheduling.
+
